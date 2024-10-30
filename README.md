@@ -4,13 +4,10 @@ This project utilizes the **Restful Booker API** to create a robust booking mana
 
 ---
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
-- [Test Cases](#test-cases)
-- [Resources](#resources)
+## 📊 Project Demo
+
+![restful api project](#)   
+*Preview of what I did in the project*
 
 ---
 
