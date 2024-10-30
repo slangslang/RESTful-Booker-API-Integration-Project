@@ -66,14 +66,15 @@ I have implemented test cases to ensure the reliability of key functionalities, 
 - **Booking Updates**: Check that existing bookings can be updated correctly.
 - **Data Integrity**: Ensure that deleted bookings no longer appear in the system.
 
-For detailed test cases and results, view the [Test Results Spreadsheet](link-to-your-google-spreadsheet).
+For detailed test cases and results, view the [Test Results Spreadsheet](https://drive.google.com/drive/folders/1ZPFXykff1yKNuKKSuLI9qcv29sZTYZiU?usp=sharing).
 
 ---
 
 ## 🔗 Resources
 
-- **Postman Workspace**: [Access Here](link-to-your-postman-workspace)
-- **API Documentation**: [Restful Booker API Docs](https://restful-booker.herokuapp.com)
+[![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?style=for-the-badge&logo=postman)](https://www.postman.com/rodman-1o4fwe9oqcsfx/workspace/endpoint-testing-mini-project/collection/34720226-e4301234-2cf4-4d55-88d2-95184afb7709?action=share&creator=34720226)
+
+[![Static Badge](https://img.shields.io/badge/RESTful%20Booker%20API-Docs-grey?style=for-the-badge&labelColor=blue)](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ---
 
