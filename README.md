@@ -50,6 +50,7 @@ Here’s a brief overview of the key API endpoints used in this project:
 | **GET**    | `/booking`                 | Retrieve all bookings               |
 | **POST**   | `/booking`                 | Create a new booking                |
 | **PUT**    | `/booking/{id}`            | Update an existing booking          |
+| **PATCH**  | `/booking/{id}`            | Partial update an existing booking  |
 | **DELETE** | `/booking/{id}`            | Delete a booking                    |
 
 ---
@@ -63,11 +64,15 @@ I have implemented test cases to ensure the reliability of key functionalities, 
 - **Booking Updates**: Check that existing bookings can be updated correctly.
 - **Data Integrity**: Ensure that deleted bookings no longer appear in the system.
 
-For detailed test cases and results, view the [Test Results Spreadsheet](https://drive.google.com/drive/folders/1ZPFXykff1yKNuKKSuLI9qcv29sZTYZiU?usp=sharing).
+For detailed test cases and results, click below
+
+[![Google Sheets](https://img.shields.io/badge/Google-Sheets-grey?style=for-the-badge&logo=googlesheets&color=%2334A853)](https://drive.google.com/drive/folders/1ZPFXykff1yKNuKKSuLI9qcv29sZTYZiU?usp=sharing)
 
 ---
 
 ## 🔗 Resources
+
+In addition to the test cases, I’m sharing my Postman collection and the API documentation related to this project below:
 
 [![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?style=for-the-badge&logo=postman)](https://www.postman.com/rodman-1o4fwe9oqcsfx/workspace/endpoint-testing-mini-project/collection/34720226-e4301234-2cf4-4d55-88d2-95184afb7709?action=share&creator=34720226)
 
