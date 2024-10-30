@@ -74,7 +74,7 @@ For detailed test cases and results, click below
 
 In addition to the test cases, I’m sharing my Postman collection and the API documentation related to this project below:
 
-[![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?style=for-the-badge&logo=postman)](https://www.postman.com/rodman-1o4fwe9oqcsfx/workspace/endpoint-testing-mini-project/collection/34720226-e4301234-2cf4-4d55-88d2-95184afb7709?action=share&creator=34720226)
+[![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?style=for-the-badge&logo=postman)](https://www.postman.com/rodman-1o4fwe9oqcsfx/workspace/restful-booker-api-testing)
 
 [![Static Badge](https://img.shields.io/badge/RESTful%20Booker%20API-Docs-grey?style=for-the-badge&labelColor=blue)](https://restful-booker.herokuapp.com/apidoc/index.html)
 
