@@ -6,8 +6,8 @@ This project utilizes the **Restful Booker API** to create a robust booking mana
 
 ## 📊 Project Demo
 
-![restful api project](#)   
-*Preview of what I did in the project*
+![restful api project](https://github.com/slangslang/RESTful-Booker-API-Integration-Project/blob/main/RESTful%20booker%20API%20demo.gif)   
+*Preview of me performing one of the test case within the project*
 
 ---
 
@@ -25,19 +25,6 @@ This project utilizes the **Restful Booker API** to create a robust booking mana
 - **Testing Tool**: Postman
 - **Documentation**: Google Sheets for test results
 - **Version Control**: Git and GitHub
-
----
-
-## 🛠️ Getting Started
-
-### Prerequisites
-- Ensure you have Postman installed on your machine.
-- Access to the Restful Booker API.
-
-### Steps to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/restful-booker-api.git
 
 ---
 
