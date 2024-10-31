@@ -23,8 +23,7 @@ This project utilizes the **Restful Booker API** to create a robust booking mana
 ## ⚙️ Technologies Used
 - **API**: Restful Booker API
 - **Testing Tool**: Postman
-- **Documentation**: Google Sheets for test results
-- **Version Control**: Git and GitHub
+- **Documentation**: Google Sheets for test cases, test results, and bug tracker
 
 ---
 
